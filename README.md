@@ -281,18 +281,6 @@ I'm a developer focused on building modern web applications, scalable backend sy
 
 ## 💬 Let's Connect
 
-<p align="center">
-  <a href="https://github.com/itsKyze">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-00F8B9?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="Explore Projects"/>
-  </a>
-  <a href="mailto:itsKyze@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-00F8B9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Contact Me"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsKyze&color=00F8B9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <b>Engineering ideas into reality.</b>
