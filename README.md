@@ -78,7 +78,11 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 ### 🧰 Development Tools & Productivity
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,idea,webstorm, vim,npm,pnpm,yarn,bun,cmake,gradle,maven&theme=dark" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,idea,webstorm,vim&theme=dark" alt="Version Control and Development Environments" />
+</p>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bun,cmake,gradle,maven&theme=dark" alt="Package Managers and Build Tools" />
 </p>
 
 ---
@@ -127,9 +131,9 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 
 <div align="center">
 
-[**View GitHub Contribution Calendar**](https://github.com/itsKyze)
+**[View GitHub Contribution Calendar](https://github.com/itsKyze)**
 
-[**View All Contributions and Activity**](https://github.com/itsKyze?tab=overview)
+**[View All Contributions and Activity](https://github.com/itsKyze?tab=overview)**
 
 <br/>
 
