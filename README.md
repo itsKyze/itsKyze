@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00F8B9&center=true&vCenter=true&width=850&lines=👋+Hey%2C+I'm+Kyze;💻+Full-Stack+Developer;⚙️+Software+Engineer;🚀+Backend+%26+Frontend+Engineering;☁️+DevOps+%26+Cloud+Infrastructure&repeat=true" alt="Typing SVG"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK-DEVELOPMENT-00F8B9?style=for-the-badge&labelColor=0D1117" alt="Full-Stack Development"/>
-  <img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-00F8B9?style=for-the-badge&labelColor=0D1117" alt="Software Engineering"/>
-  <img src="https://img.shields.io/badge/DEVOPS-CLOUD-00F8B9?style=for-the-badge&labelColor=0D1117" alt="DevOps and Cloud"/>
-</p>
 
 ---
 
