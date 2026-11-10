@@ -67,12 +67,9 @@ I'm **Ahmed**, a Full-Stack Developer passionate about building modern web appli
 ###  Development Tools & Productivity
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio," alt="Version Control and Development Environments" />
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,?i=npm,pnpm,yarn,bun,cmake,gradle,maven&theme=dark" alt="Version Control and Development Environments" />
 </p>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,bun,cmake,gradle,maven&theme=dark" alt="Package Managers and Build Tools" />
-</p>
 
 ---
 
