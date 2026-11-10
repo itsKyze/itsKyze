@@ -60,14 +60,14 @@ I'm **Ahmed**, a Full-Stack Developer passionate about building modern web appli
 ###  DevOps, Cloud & Infrastructure
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,nginx,github,githubactions,gitlab,terraform,ansible,aws,gcp,azure,prometheus,grafana,cloudflare,vercel&theme=dark" alt="DevOps and Cloud" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,github,githubactions,terraform,ansible,aws,gcp,azure,prometheus,grafana,cloudflare,vercel&theme=dark" alt="DevOps and Cloud" />
 </p>
 
 
 ###  Development Tools & Productivity
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,idea,webstorm,vim&theme=dark" alt="Version Control and Development Environments" />
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio," alt="Version Control and Development Environments" />
 </p>
 
 <p align="left">
