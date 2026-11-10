@@ -20,16 +20,10 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
-I'm **Kyze**, a Full-Stack Developer passionate about building modern web applications and reliable software.
+I'm **Ahmed**, a Full-Stack Developer passionate about building modern web applications and reliable software.
 
-- 💻 Full-Stack Development
-- 🎨 Frontend Development
-- ⚙️ Backend Engineering & API Development
-- 🗄️ Database Design & Management
-- ☁️ DevOps & Cloud Infrastructure
-- 🚀 Continuous Learning & Software Engineering
 
 <div align="center">
 
@@ -39,43 +33,38 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,cpp,go,rust,php,lua,bash,powershell&theme=dark" alt="Programming Languages" />
 </p>
 
-### 🎨 Frontend Development
+###  Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,vite,webpack,tailwind,sass,bootstrap,materialui,redux,threejs,figma&theme=dark" alt="Frontend Development" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,vite,webpack,tailwind,sass,bootstrap,materialui,redux,threejs," alt="Frontend Development" />
 </p>
 
-### ⚙️ Backend Development & API Engineering
+###  Backend Development & API Engineering
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,spring,laravel,dotnet,graphql,prisma,postman&theme=dark" alt="Backend Development" />
 </p>
 
-### 🗄️ Databases, Storage & Data Access
+###  Databases, Storage & Data Access
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,prisma&theme=dark" alt="Databases and Storage" />
 </p>
 
-### 🔧 DevOps, Cloud & Infrastructure
+###  DevOps, Cloud & Infrastructure
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,kubernetes,nginx,github,githubactions,gitlab,terraform,ansible,aws,gcp,azure,prometheus,grafana,cloudflare,vercel&theme=dark" alt="DevOps and Cloud" />
 </p>
 
-### 🧪 Testing, Debugging & Code Quality
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium,postman&theme=dark" alt="Testing and Debugging" />
-</p>
-
-### 🧰 Development Tools & Productivity
+###  Development Tools & Productivity
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,vscode,visualstudio,idea,webstorm,vim&theme=dark" alt="Version Control and Development Environments" />
@@ -87,7 +76,7 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -107,7 +96,7 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
 
@@ -127,7 +116,7 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -143,7 +132,7 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -165,7 +154,7 @@ I'm **Kyze**, a Full-Stack Developer passionate about building modern web applic
 
 <div align="center">
 
-### ⚡ Full-Stack Developer
+###  Full-Stack Developer
 
 **Building modern experiences. Engineering reliable systems.**
 
