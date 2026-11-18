@@ -117,11 +117,7 @@ I'm **Ahmed**, a Full-Stack Developer passionate about building modern web appli
 
 <div align="center">
 
-**[View GitHub Contribution Calendar](https://github.com/itsKyze)**
 
-**[View All Contributions and Activity](https://github.com/itsKyze?tab=overview)**
-
-<br/>
 
 <img src="https://ghchart.rshah.org/00F8B9/itsKyze" width="100%" alt="GitHub Contribution Calendar" />
 
