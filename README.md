@@ -1,11 +1,10 @@
-<div align="center">
+ <div align="center">
 
-# ⚡ Ahmed (Kyze)
-### Full-Stack Developer & Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:003B3B,100:00F8B9&height=200&section=header&text=Kyze&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Kyze Header" />
 
-> **Think. Engineer. Build. Ship.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F8B9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Modern+Web+Applications;Code.+Create.+Innovate." alt="Full-Stack Developer" />
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/itsKyze">
 <img src="https://img.shields.io/badge/GITHUB-itsKyze-00F8B9?style=for-the-badge&logo=github&logoColor=white&labelColor=07111F" alt="GitHub Profile" />
@@ -21,51 +20,60 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-I'm **Ahmed**, a Full-Stack Developer passionate about architecting scalable systems, building modern web applications, and delivering high-performance software with clean code and intuitive experiences.
+I'm **Ahmed**, a Full-Stack Developer passionate about building modern web applications and reliable software.
+
+
+<div align="center">
+
+**Think. Engineer. Build. Ship.**
+
+</div>
 
 ---
 
-## 🛠️ Programming Languages
+##  Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cs,cpp,go,rust,php,lua,bash,powershell&theme=dark" alt="Programming Languages" />
 </p>
 
-### Frontend Development
+###  Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,vite,webpack,tailwind,sass,bootstrap,materialui,redux,threejs&theme=dark" alt="Frontend Development" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,vite,webpack,tailwind,sass,bootstrap,materialui,redux,threejs," alt="Frontend Development" />
 </p>
 
-### Backend Development & API Engineering
+###  Backend Development & API Engineering
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,flask,spring,laravel,dotnet,graphql,prisma,postman&theme=dark" alt="Backend Development" />
 </p>
 
-### Databases, Storage & Data Access
+###  Databases, Storage & Data Access
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,firebase,supabase,prisma&theme=dark" alt="Databases and Storage" />
 </p>
 
-### DevOps, Cloud & Infrastructure
+###  DevOps, Cloud & Infrastructure
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,kubernetes,nginx,github,githubactions,terraform,ansible,aws,gcp,azure,prometheus,grafana,cloudflare,vercel&theme=dark" alt="DevOps and Cloud" />
 </p>
 
-### Development Tools & Productivity
+
+###  Development Tools & Productivity
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,visualstudio,npm,pnpm,yarn,bun,cmake,gradle,maven&theme=dark" alt="Version Control and Development Environments" />
 </p>
 
+
 ---
 
-## 📈 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -85,7 +93,7 @@ I'm **Ahmed**, a Full-Stack Developer passionate about architecting scalable sys
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
 
@@ -105,7 +113,7 @@ I'm **Ahmed**, a Full-Stack Developer passionate about architecting scalable sys
 
 ---
 
-## 📊 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -121,7 +129,7 @@ I'm **Ahmed**, a Full-Stack Developer passionate about architecting scalable sys
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -143,7 +151,7 @@ I'm **Ahmed**, a Full-Stack Developer passionate about architecting scalable sys
 
 <div align="center">
 
-### Full-Stack Developer
+###  Full-Stack Developer
 
 **Building modern experiences. Engineering reliable systems.**
 
