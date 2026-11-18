@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:003B3B,100:00F8B9&height=200&section=header&text=Kyze&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" alt="Kyze Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:003B3B,100:00F8B9&height=200&section=header&text=Kyze&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Kyze Header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F8B9&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Modern+Web+Applications;Code.+Create.+Innovate." alt="Full-Stack Developer" />
 
