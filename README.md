@@ -3,7 +3,7 @@
 # ⚡ Ahmed (Kyze)
 ### Full-Stack Developer & Software Engineer
 
-
+> **Think. Engineer. Build. Ship.**
 
 <br/>
 
