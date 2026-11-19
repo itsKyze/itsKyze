@@ -22,12 +22,39 @@
 
 ##  About Me
 
-I'm **Ahmed**, a Full-Stack Developer passionate about building modern web applications and reliable software.
-
+I'm **Ahmed**, a Full-Stack Developer passionate about building modern web applications, autonomous agent systems, and developer tools.
 
 <div align="center">
 
 **Think. Engineer. Build. Ship.**
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/itsKyze/zyron">
+  <img src="https://raw.githubusercontent.com/itsKyze/zyron/main/assets/prod/logo.svg" width="80" alt="Zyron Logo" />
+</a>
+
+### [**Zyron — Local-First AI Workspace for Autonomous Agents**](https://github.com/itsKyze/zyron)
+
+A focused, high-performance workspace and desktop app for coding agents, multi-agent swarms, and intelligent developer workflows.
+
+<br/>
+
+<a href="https://github.com/itsKyze/zyron">
+  <img src="https://img.shields.io/badge/GitHub-zyron-00F8B9?style=for-the-badge&logo=github&labelColor=07111F" alt="Zyron Repo" />
+</a>
+<a href="https://ai.zyron.site/">
+  <img src="https://img.shields.io/badge/Website-ai.zyron.site-00F8B9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=07111F" alt="Website" />
+</a>
+<a href="https://github.com/itsKyze/zyron/releases/latest">
+  <img src="https://img.shields.io/badge/Download-Desktop%20App-00F8B9?style=for-the-badge&logo=electron&logoColor=white&labelColor=07111F" alt="Download" />
+</a>
 
 </div>
 
