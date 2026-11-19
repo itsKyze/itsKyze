@@ -78,16 +78,12 @@ I'm **Ahmed**, a Full-Stack Developer passionate about building modern web appli
 <div align="center">
 
 <a href="https://github.com/itsKyze">
-<img src="https://github-readme-stats.vercel.app/api?username=itsKyze&show_icons=true&hide_border=true&bg_color=07111F&title_color=00F8B9&icon_color=00F8B9&text_color=E6EDF3" height="180" alt="GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=itsKyze&show_icons=true&include_all_commits=true&hide=stars&hide_rank=true&hide_border=true&bg_color=07111F&title_color=00F8B9&icon_color=00F8B9&text_color=E6EDF3" height="180" alt="GitHub Statistics" />
 </a>
 
 <a href="https://github.com/itsKyze">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsKyze&layout=compact&hide_border=true&bg_color=07111F&title_color=00F8B9&text_color=E6EDF3&langs_count=8" height="180" alt="Most Used Languages" />
 </a>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=itsKyze&theme=dark&hide_border=true&background=07111F&ring=00F8B9&fire=00F8B9&currStreakLabel=00F8B9" width="70%" alt="GitHub Streak" />
 
 </div>
 
